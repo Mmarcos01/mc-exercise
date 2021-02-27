@@ -3,7 +3,7 @@
 ### Allee McCoy | Aloysious | Kassie Bradshaw | Marie Marcos
 
 1. Ted did a `git pull origin master` into his `Feature Branch` Big no-no
-2. Sebsequesntly when Carol and Bob worked on thier feature they did not perform the `git pull origin master` from "Main" prior to going into thier  `Feature Branch` to work.
+2. Sebsequently when Carol and Bob worked on thier feature they did not perform the `git pull origin master` from "Main" prior to going into thier  `Feature Branch` to work.
 + pulling the master into a feature is bad news...Don't do it!
 + When both teams tried to submit changes problems occured...this is becuase:
 4.  Ted and Carol have been making changes to the `main` in thier `feature branch` which means they're in fast forward mode, or ahead of themselves so to speak.
